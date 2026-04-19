@@ -56,3 +56,6 @@ Thumbs.db
 ### AI Agents ###
 .claude/
 CLAUDE.md
+
+### Other files to ignore ###
+temp/
